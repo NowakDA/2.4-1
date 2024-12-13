@@ -46,7 +46,7 @@ body {
 }
 
 .search-input:focus {
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transform: translateY(-2px);
   outline: none;
 }
